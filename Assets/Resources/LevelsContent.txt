@@ -1,0 +1,1060 @@
+{
+	"version": "0.1.1",
+	"chapters": [
+		{
+			"number": 0,
+			"levels": [
+				{
+					"number": 0,
+					"design": {
+						"enemies": [
+							{
+								"objectIndices": [ 0 ],
+								"nextWaveInterval": 5.0
+							},
+							{
+								"objectIndices": [ 0, 0 ],
+								"nextWaveInterval": 7.0
+							},
+							{
+								"objectIndices": [ 0, 1, 1, 0 ],
+								"nextWaveInterval": 8.0
+							},
+							{
+								"objectIndices": [ 0, 0, 0 ],
+								"nextWaveInterval": 10.0
+							},
+							{
+								"objectIndices": [ 0, 2, 0, 3, 0, 1 ],
+								"nextWaveInterval": 10.0
+							},
+							{
+								"objectIndices": [ 0, 2, 1, 0, 1, 1 ],
+								"nextWaveInterval": 10.0
+							},
+							{
+								"objectIndices": [ 2, 1, 3, 1, 1 ],
+								"nextWaveInterval": 10.0
+							},
+							{
+								"objectIndices": [ 0, 0, 0, 0, 0, 0, 1, 1, 1, 1 ],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [ 0, 0, 0, 0, 0, 0, 2, 1, 1, 1, 2, 2 ],
+								"nextWaveInterval": 20.0
+							},
+							{
+								"objectIndices": [ 1, 4, 1, 1, 1, 2, 2, 2 ],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [ 1, 1, 1, 1, 3, 2, 2, 2, 0, 0 ],
+								"nextWaveInterval": 20.0
+							},
+							{
+								"objectIndices": [ 1, 1, 2, 0, 2, 2, 2, 2, 0, 0, 0, 0 ],
+								"nextWaveInterval": 20.0
+							},
+							{
+								"objectIndices": [ 1, 1, 1, 1, 2, 2, 2, 2, 3 ],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [ 1, 1, 1, 1, 2, 2, 2, 2, 3 ],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [ 1, 1, 1, 2, 2, 2, 2, 3, 4 ],
+								"nextWaveInterval": 20.0
+							}
+						],
+						"obstacles": [
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							}
+						]
+					}
+				},
+				{
+					"number": 1,
+					"design": {
+						"enemies": [
+							{
+								"objectIndices": [ 0 ],
+								"nextWaveInterval": 5.0
+							},
+							{
+								"objectIndices": [ 0, 0 ],
+								"nextWaveInterval": 7.0
+							},
+							{
+								"objectIndices": [ 0, 1, 1, 0 ],
+								"nextWaveInterval": 8.0
+							},
+							{
+								"objectIndices": [ 0, 0, 0 ],
+								"nextWaveInterval": 10.0
+							},
+							{
+								"objectIndices": [ 0, 2, 0, 3, 0, 1 ],
+								"nextWaveInterval": 10.0
+							},
+							{
+								"objectIndices": [ 0, 2, 1, 0, 1, 1 ],
+								"nextWaveInterval": 10.0
+							},
+							{
+								"objectIndices": [ 2, 1, 3, 1, 1 ],
+								"nextWaveInterval": 10.0
+							},
+							{
+								"objectIndices": [ 0, 0, 0, 0, 0, 0, 1, 1, 1, 1 ],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [ 0, 0, 0, 0, 0, 0, 2, 1, 1, 1, 2, 2 ],
+								"nextWaveInterval": 20.0
+							},
+							{
+								"objectIndices": [ 1, 4, 1, 1, 1, 2, 2, 2 ],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [ 1, 1, 1, 1, 3, 2, 2, 2, 0, 0 ],
+								"nextWaveInterval": 20.0
+							},
+							{
+								"objectIndices": [ 1, 1, 2, 0, 2, 2, 2, 2, 0, 0, 0, 0 ],
+								"nextWaveInterval": 20.0
+							},
+							{
+								"objectIndices": [ 1, 1, 1, 1, 2, 2, 2, 2, 3 ],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [ 1, 1, 1, 1, 2, 2, 2, 2, 3 ],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [ 1, 1, 1, 2, 2, 2, 2, 3, 4 ],
+								"nextWaveInterval": 20.0
+							}
+						],
+						"obstacles": [
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							}
+						]
+					}
+				},
+				{
+					"number": 2,
+					"design": {
+						"enemies": [
+							{
+								"objectIndices": [ 0 ],
+								"nextWaveInterval": 5.0
+							},
+							{
+								"objectIndices": [ 0, 0 ],
+								"nextWaveInterval": 7.0
+							},
+							{
+								"objectIndices": [ 0, 1, 1, 0 ],
+								"nextWaveInterval": 8.0
+							},
+							{
+								"objectIndices": [ 0, 0, 0 ],
+								"nextWaveInterval": 10.0
+							},
+							{
+								"objectIndices": [ 0, 2, 0, 3, 0, 1 ],
+								"nextWaveInterval": 10.0
+							},
+							{
+								"objectIndices": [ 0, 2, 1, 0, 1, 1 ],
+								"nextWaveInterval": 10.0
+							},
+							{
+								"objectIndices": [ 2, 1, 3, 1, 1 ],
+								"nextWaveInterval": 10.0
+							},
+							{
+								"objectIndices": [ 0, 0, 0, 0, 0, 0, 1, 1, 1, 1 ],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [ 0, 0, 0, 0, 0, 0, 2, 1, 1, 1, 2, 2 ],
+								"nextWaveInterval": 20.0
+							},
+							{
+								"objectIndices": [ 1, 4, 1, 1, 1, 2, 2, 2 ],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [ 1, 1, 1, 1, 3, 2, 2, 2, 0, 0 ],
+								"nextWaveInterval": 20.0
+							},
+							{
+								"objectIndices": [ 1, 1, 2, 0, 2, 2, 2, 2, 0, 0, 0, 0 ],
+								"nextWaveInterval": 20.0
+							},
+							{
+								"objectIndices": [ 1, 1, 1, 1, 2, 2, 2, 2, 3 ],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [ 1, 1, 1, 1, 2, 2, 2, 2, 3 ],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [ 1, 1, 1, 2, 2, 2, 2, 3, 4 ],
+								"nextWaveInterval": 20.0
+							}
+						],
+						"obstacles": [
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							}
+						]
+					}
+				},
+				{
+					"number": 3,
+					"design": {
+						"enemies": [
+							{
+								"objectIndices": [ 0 ],
+								"nextWaveInterval": 5.0
+							},
+							{
+								"objectIndices": [ 0, 0 ],
+								"nextWaveInterval": 7.0
+							},
+							{
+								"objectIndices": [ 0, 1, 1, 0 ],
+								"nextWaveInterval": 8.0
+							},
+							{
+								"objectIndices": [ 0, 0, 0 ],
+								"nextWaveInterval": 10.0
+							},
+							{
+								"objectIndices": [ 0, 2, 0, 3, 0, 1 ],
+								"nextWaveInterval": 10.0
+							},
+							{
+								"objectIndices": [ 0, 2, 1, 0, 1, 1 ],
+								"nextWaveInterval": 10.0
+							},
+							{
+								"objectIndices": [ 2, 1, 3, 1, 1 ],
+								"nextWaveInterval": 10.0
+							},
+							{
+								"objectIndices": [ 0, 0, 0, 0, 0, 0, 1, 1, 1, 1 ],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [ 0, 0, 0, 0, 0, 0, 2, 1, 1, 1, 2, 2 ],
+								"nextWaveInterval": 20.0
+							},
+							{
+								"objectIndices": [ 1, 4, 1, 1, 1, 2, 2, 2 ],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [ 1, 1, 1, 1, 3, 2, 2, 2, 0, 0 ],
+								"nextWaveInterval": 20.0
+							},
+							{
+								"objectIndices": [ 1, 1, 2, 0, 2, 2, 2, 2, 0, 0, 0, 0 ],
+								"nextWaveInterval": 20.0
+							},
+							{
+								"objectIndices": [ 1, 1, 1, 1, 2, 2, 2, 2, 3 ],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [ 1, 1, 1, 1, 2, 2, 2, 2, 3 ],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [ 1, 1, 1, 2, 2, 2, 2, 3, 4 ],
+								"nextWaveInterval": 20.0
+							}
+						],
+						"obstacles": [
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							}
+						]
+					}
+				},
+				{
+					"number": 4,
+					"design": {
+						"enemies": [
+							{
+								"objectIndices": [ 0 ],
+								"nextWaveInterval": 5.0
+							},
+							{
+								"objectIndices": [ 0, 0 ],
+								"nextWaveInterval": 7.0
+							},
+							{
+								"objectIndices": [ 0, 1, 1, 0 ],
+								"nextWaveInterval": 8.0
+							},
+							{
+								"objectIndices": [ 0, 0, 0 ],
+								"nextWaveInterval": 10.0
+							},
+							{
+								"objectIndices": [ 0, 2, 0, 3, 0, 1 ],
+								"nextWaveInterval": 10.0
+							},
+							{
+								"objectIndices": [ 0, 2, 1, 0, 1, 1 ],
+								"nextWaveInterval": 10.0
+							},
+							{
+								"objectIndices": [ 2, 1, 3, 1, 1 ],
+								"nextWaveInterval": 10.0
+							},
+							{
+								"objectIndices": [ 0, 0, 0, 0, 0, 0, 1, 1, 1, 1 ],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [ 0, 0, 0, 0, 0, 0, 2, 1, 1, 1, 2, 2 ],
+								"nextWaveInterval": 20.0
+							},
+							{
+								"objectIndices": [ 1, 4, 1, 1, 1, 2, 2, 2 ],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [ 1, 1, 1, 1, 3, 2, 2, 2, 0, 0 ],
+								"nextWaveInterval": 20.0
+							},
+							{
+								"objectIndices": [ 1, 1, 2, 0, 2, 2, 2, 2, 0, 0, 0, 0 ],
+								"nextWaveInterval": 20.0
+							},
+							{
+								"objectIndices": [ 1, 1, 1, 1, 2, 2, 2, 2, 3 ],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [ 1, 1, 1, 1, 2, 2, 2, 2, 3 ],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [ 1, 1, 1, 2, 2, 2, 2, 3, 4 ],
+								"nextWaveInterval": 20.0
+							}
+						],
+						"obstacles": [
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							}
+						]
+					}
+				},
+				{
+					"number": 5,
+					"design": {
+						"enemies": [
+							{
+								"objectIndices": [ 0 ],
+								"nextWaveInterval": 5.0
+							},
+							{
+								"objectIndices": [ 0, 0 ],
+								"nextWaveInterval": 7.0
+							},
+							{
+								"objectIndices": [ 0, 1, 1, 0 ],
+								"nextWaveInterval": 8.0
+							},
+							{
+								"objectIndices": [ 0, 0, 0 ],
+								"nextWaveInterval": 10.0
+							},
+							{
+								"objectIndices": [ 0, 2, 0, 3, 0, 1 ],
+								"nextWaveInterval": 10.0
+							},
+							{
+								"objectIndices": [ 0, 2, 1, 0, 1, 1 ],
+								"nextWaveInterval": 10.0
+							},
+							{
+								"objectIndices": [ 2, 1, 3, 1, 1 ],
+								"nextWaveInterval": 10.0
+							},
+							{
+								"objectIndices": [ 0, 0, 0, 0, 0, 0, 1, 1, 1, 1 ],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [ 0, 0, 0, 0, 0, 0, 2, 1, 1, 1, 2, 2 ],
+								"nextWaveInterval": 20.0
+							},
+							{
+								"objectIndices": [ 1, 4, 1, 1, 1, 2, 2, 2 ],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [ 1, 1, 1, 1, 3, 2, 2, 2, 0, 0 ],
+								"nextWaveInterval": 20.0
+							},
+							{
+								"objectIndices": [ 1, 1, 2, 0, 2, 2, 2, 2, 0, 0, 0, 0 ],
+								"nextWaveInterval": 20.0
+							},
+							{
+								"objectIndices": [ 1, 1, 1, 1, 2, 2, 2, 2, 3 ],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [ 1, 1, 1, 1, 2, 2, 2, 2, 3 ],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [ 1, 1, 1, 2, 2, 2, 2, 3, 4 ],
+								"nextWaveInterval": 20.0
+							}
+						],
+						"obstacles": [
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							}
+						]
+					}
+				},
+				{
+					"number": 6,
+					"design": {
+						"enemies": [
+							{
+								"objectIndices": [ 0 ],
+								"nextWaveInterval": 5.0
+							},
+							{
+								"objectIndices": [ 0, 0 ],
+								"nextWaveInterval": 7.0
+							},
+							{
+								"objectIndices": [ 0, 1, 1, 0 ],
+								"nextWaveInterval": 8.0
+							},
+							{
+								"objectIndices": [ 0, 0, 0 ],
+								"nextWaveInterval": 10.0
+							},
+							{
+								"objectIndices": [ 0, 2, 0, 3, 0, 1 ],
+								"nextWaveInterval": 10.0
+							},
+							{
+								"objectIndices": [ 0, 2, 1, 0, 1, 1 ],
+								"nextWaveInterval": 10.0
+							},
+							{
+								"objectIndices": [ 2, 1, 3, 1, 1 ],
+								"nextWaveInterval": 10.0
+							},
+							{
+								"objectIndices": [ 0, 0, 0, 0, 0, 0, 1, 1, 1, 1 ],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [ 0, 0, 0, 0, 0, 0, 2, 1, 1, 1, 2, 2 ],
+								"nextWaveInterval": 20.0
+							},
+							{
+								"objectIndices": [ 1, 4, 1, 1, 1, 2, 2, 2 ],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [ 1, 1, 1, 1, 3, 2, 2, 2, 0, 0 ],
+								"nextWaveInterval": 20.0
+							},
+							{
+								"objectIndices": [ 1, 1, 2, 0, 2, 2, 2, 2, 0, 0, 0, 0 ],
+								"nextWaveInterval": 20.0
+							},
+							{
+								"objectIndices": [ 1, 1, 1, 1, 2, 2, 2, 2, 3 ],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [ 1, 1, 1, 1, 2, 2, 2, 2, 3 ],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [ 1, 1, 1, 2, 2, 2, 2, 3, 4 ],
+								"nextWaveInterval": 20.0
+							}
+						],
+						"obstacles": [
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							}
+						]
+					}
+				},
+				{
+					"number": 7,
+					"design": {
+						"enemies": [
+							{
+								"objectIndices": [ 0 ],
+								"nextWaveInterval": 5.0
+							},
+							{
+								"objectIndices": [ 0, 0 ],
+								"nextWaveInterval": 7.0
+							},
+							{
+								"objectIndices": [ 0, 1, 1, 0 ],
+								"nextWaveInterval": 8.0
+							},
+							{
+								"objectIndices": [ 0, 0, 0 ],
+								"nextWaveInterval": 10.0
+							},
+							{
+								"objectIndices": [ 0, 2, 0, 3, 0, 1 ],
+								"nextWaveInterval": 10.0
+							},
+							{
+								"objectIndices": [ 0, 2, 1, 0, 1, 1 ],
+								"nextWaveInterval": 10.0
+							},
+							{
+								"objectIndices": [ 2, 1, 3, 1, 1 ],
+								"nextWaveInterval": 10.0
+							},
+							{
+								"objectIndices": [ 0, 0, 0, 0, 0, 0, 1, 1, 1, 1 ],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [ 0, 0, 0, 0, 0, 0, 2, 1, 1, 1, 2, 2 ],
+								"nextWaveInterval": 20.0
+							},
+							{
+								"objectIndices": [ 1, 4, 1, 1, 1, 2, 2, 2 ],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [ 1, 1, 1, 1, 3, 2, 2, 2, 0, 0 ],
+								"nextWaveInterval": 20.0
+							},
+							{
+								"objectIndices": [ 1, 1, 2, 0, 2, 2, 2, 2, 0, 0, 0, 0 ],
+								"nextWaveInterval": 20.0
+							},
+							{
+								"objectIndices": [ 1, 1, 1, 1, 2, 2, 2, 2, 3 ],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [ 1, 1, 1, 1, 2, 2, 2, 2, 3 ],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [ 1, 1, 1, 2, 2, 2, 2, 3, 4 ],
+								"nextWaveInterval": 20.0
+							}
+						],
+						"obstacles": [
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							}
+						]
+					}
+				},
+				{
+					"number": 8,
+					"design": {
+						"enemies": [
+							{
+								"objectIndices": [ 0 ],
+								"nextWaveInterval": 5.0
+							},
+							{
+								"objectIndices": [ 0, 0 ],
+								"nextWaveInterval": 7.0
+							},
+							{
+								"objectIndices": [ 0, 1, 1, 0 ],
+								"nextWaveInterval": 8.0
+							},
+							{
+								"objectIndices": [ 0, 0, 0 ],
+								"nextWaveInterval": 10.0
+							},
+							{
+								"objectIndices": [ 0, 2, 0, 3, 0, 1 ],
+								"nextWaveInterval": 10.0
+							},
+							{
+								"objectIndices": [ 0, 2, 1, 0, 1, 1 ],
+								"nextWaveInterval": 10.0
+							},
+							{
+								"objectIndices": [ 2, 1, 3, 1, 1 ],
+								"nextWaveInterval": 10.0
+							},
+							{
+								"objectIndices": [ 0, 0, 0, 0, 0, 0, 1, 1, 1, 1 ],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [ 0, 0, 0, 0, 0, 0, 2, 1, 1, 1, 2, 2 ],
+								"nextWaveInterval": 20.0
+							},
+							{
+								"objectIndices": [ 1, 4, 1, 1, 1, 2, 2, 2 ],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [ 1, 1, 1, 1, 3, 2, 2, 2, 0, 0 ],
+								"nextWaveInterval": 20.0
+							},
+							{
+								"objectIndices": [ 1, 1, 2, 0, 2, 2, 2, 2, 0, 0, 0, 0 ],
+								"nextWaveInterval": 20.0
+							},
+							{
+								"objectIndices": [ 1, 1, 1, 1, 2, 2, 2, 2, 3 ],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [ 1, 1, 1, 1, 2, 2, 2, 2, 3 ],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [ 1, 1, 1, 2, 2, 2, 2, 3, 4 ],
+								"nextWaveInterval": 20.0
+							}
+						],
+						"obstacles": [
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							}
+						]
+					}
+				},
+				{
+					"number": 9,
+					"design": {
+						"enemies": [
+							{
+								"objectIndices": [ 0 ],
+								"nextWaveInterval": 5.0
+							},
+							{
+								"objectIndices": [ 0, 0 ],
+								"nextWaveInterval": 7.0
+							},
+							{
+								"objectIndices": [ 0, 1, 1, 0 ],
+								"nextWaveInterval": 8.0
+							},
+							{
+								"objectIndices": [ 0, 0, 0 ],
+								"nextWaveInterval": 10.0
+							},
+							{
+								"objectIndices": [ 0, 2, 0, 3, 0, 1 ],
+								"nextWaveInterval": 10.0
+							},
+							{
+								"objectIndices": [ 0, 2, 1, 0, 1, 1 ],
+								"nextWaveInterval": 10.0
+							},
+							{
+								"objectIndices": [ 2, 1, 3, 1, 1 ],
+								"nextWaveInterval": 10.0
+							},
+							{
+								"objectIndices": [ 0, 0, 0, 0, 0, 0, 1, 1, 1, 1 ],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [ 0, 0, 0, 0, 0, 0, 2, 1, 1, 1, 2, 2 ],
+								"nextWaveInterval": 20.0
+							},
+							{
+								"objectIndices": [ 1, 4, 1, 1, 1, 2, 2, 2 ],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [ 1, 1, 1, 1, 3, 2, 2, 2, 0, 0 ],
+								"nextWaveInterval": 20.0
+							},
+							{
+								"objectIndices": [ 1, 1, 2, 0, 2, 2, 2, 2, 0, 0, 0, 0 ],
+								"nextWaveInterval": 20.0
+							},
+							{
+								"objectIndices": [ 1, 1, 1, 1, 2, 2, 2, 2, 3 ],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [ 1, 1, 1, 1, 2, 2, 2, 2, 3 ],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [ 1, 1, 1, 2, 2, 2, 2, 3, 4 ],
+								"nextWaveInterval": 20.0
+							}
+						],
+						"obstacles": [
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 15.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							},
+							{
+								"objectIndices": [0, 0, 0, 0],
+								"nextWaveInterval": 25.0
+							}
+						]
+					}
+				}
+			]
+		}
+	]
+}

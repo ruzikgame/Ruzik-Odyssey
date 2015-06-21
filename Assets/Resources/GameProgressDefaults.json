@@ -1,0 +1,115 @@
+{
+	"gold": 1000,
+	"corn": 100,
+	"gas": 10,
+	"currentChapterIndex": 0,
+	"currentLevelIndex": 0,
+	"currentLevelDifficulty": 0,
+	"chapters": [
+		{
+			"number": 0,
+			"name": "The Beginning",
+			"isLocked": false,
+			"levels": [ 
+				{
+					"number": 0,
+					"name": "Defending Home",
+					"isLocked": false,
+					"medals": 0,
+					"maxMedals": 12
+				},
+				{
+					"number": 1,
+					"name": "What's Up Neighbor",
+					"isLocked": false,
+					"medals": 0,
+					"maxMedals": 12
+				},
+				{
+					"number": 2,
+					"name": "Level 2",
+					"isLocked": false,
+					"medals": 0,
+					"maxMedals": 12
+				},
+				{
+					"number": 3,
+					"name": "Level 3",
+					"isLocked": false,
+					"medals": 0,
+					"maxMedals": 12
+				},
+				{
+					"number": 4,
+					"name": "Level 4",
+					"isLocked": false,
+					"medals": 0,
+					"maxMedals": 6
+				},
+				{
+					"number": 5,
+					"name": "Level 5",
+					"isLocked": false,
+					"medals": 0,
+					"maxMedals": 12
+				},
+				{
+					"number": 6,
+					"name": "Level 6",
+					"isLocked": false,
+					"medals": 0,
+					"maxMedals": 12
+				},
+				{
+					"number": 7,
+					"name": "Level 7",
+					"isLocked": false,
+					"medals": 0,
+					"maxMedals": 12
+				},
+				{
+					"number": 8,
+					"name": "Level 8",
+					"isLocked": false,
+					"medals": 0,
+					"maxMedals": 12
+				},
+				{
+					"number": 9,
+					"name": "Level 9",
+					"isLocked": false,
+					"medals": 0,
+					"maxMedals": 12
+				}
+			]
+		},
+		{
+			"number": 1,
+			"name": "Urban Flight",
+			"isLocked": true,
+			"levels": [
+				{
+					"number": 0,
+					"name": "Level 0",
+					"isLocked": false,
+					"medals": 0,
+					"maxMedals": 12
+				}
+			]
+		},	
+		{
+			"number": 2,
+			"name": "Evil Place",
+			"isLocked": true,
+			"levels": [
+				{
+					"number": 0,
+					"name": "Level 0",
+					"isLocked": false,
+					"medals": 0,
+					"maxMedals": 12
+				}
+			]
+		}
+	]
+}

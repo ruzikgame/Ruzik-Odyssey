@@ -1,0 +1,92 @@
+[
+	{
+		"name": "Weapons",
+		"items": [
+			{
+				"name": "Hispano Suiza HS404 Cannon",
+				"spriteName": "HispanoSuizaHS404Cannon",
+				"thumbnailName": "HispanoSuizaHS404Cannon_Thumbnail",
+				"description": "",
+				"goldPrice": 1,
+				"cornPrice": 1
+			},
+			{
+				"name": "M2 Machine Gun",
+				"spriteName": "M2MachineGun",
+				"thumbnailName": "M2MachineGun_Thumbnail",
+				"description": "",
+				"goldPrice": 1,
+				"cornPrice": 1
+			},
+			{
+				"name": "M1919 Machine Gun",
+				"spriteName": "M1919MachineGun",
+				"thumbnailName": "M1919MachineGun_Thumbnail",
+				"description": "",
+				"goldPrice": 1,
+				"cornPrice": 1
+			},
+			{
+				"name": "ShKAS Machine Gun",
+				"spriteName": "ShKASMachineGun",
+				"thumbnailName": "ShKASMachineGun_Thumbnail",
+				"description": "",
+				"goldPrice": 1,
+				"cornPrice": 1
+			},
+			{
+				"name": "ShVAK Cannon",
+				"spriteName": "ShVAKCannon",
+				"thumbnailName": "ShVAKCannon_Thumbnail",
+				"description": "",
+				"goldPrice": 1,
+				"cornPrice": 1
+			}
+		]
+	},
+	{
+		"name": "Engines",
+		"items": [
+			{
+				"name": "Allison V1710",
+				"spriteName": "AllisonV1710",
+				"thumbnailName": "AllisonV1710_Thumbnail",
+				"description": "",
+				"goldPrice": 1,
+				"cornPrice": 1
+			},
+			{
+				"name": "Mikulin AM35",
+				"spriteName": "MikulinAM35",
+				"thumbnailName": "MikulinAM35_Thumbnail",
+				"description": "",
+				"goldPrice": 1,
+				"cornPrice": 1
+			},
+			{
+				"name": "Mikulin AM38F",
+				"spriteName": "MikulinAM38F",
+				"thumbnailName": "MikulinAM38F_Thumbnail",
+				"description": "",
+				"goldPrice": 1,
+				"cornPrice": 1
+			},
+			{
+				"name": "RR Griffon",
+				"spriteName": "RRGriffon",
+				"thumbnailName": "RRGriffon_Thumbnail",
+				"description": "",
+				"goldPrice": 1,
+				"cornPrice": 1
+			},
+			{
+				"name": "RR Merlin",
+				"spriteName": "RRMerlin",
+				"thumbnailName": "RRMerlin_Thumbnail",
+				"description": "",
+				"goldPrice": 1,
+				"cornPrice": 1
+			}
+		]
+	}	
+]

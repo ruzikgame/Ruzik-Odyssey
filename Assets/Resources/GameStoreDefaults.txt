@@ -1,0 +1,157 @@
+{
+	"gold": [
+		{
+			"id" : "4126be3a-c5e2-4618-8222-5d709a6f0799",
+			"name": "Pile of gold",
+			"spriteName": "PileOfGold",
+			"price":  {
+				"money": 12.1,
+				"gold": 120,
+				"corn": 20
+			},
+			"category": 1
+		},
+		{
+			"id" : "5fee8b37-4d0a-4b26-b864-7e02ae39e72b",
+			"name": "Bag of gold",
+			"spriteName": "BagOfGold",
+			"price":  {
+				"money": 12.1,
+				"gold": 90,
+				"corn": 20
+			},
+			"category": 1
+		},
+		{
+			"id" : "22f027ff-992f-436d-943b-7c4dfd65435a",
+			"name": "Box of gold",
+			"spriteName": "BoxOfGold",
+			"price":  {
+				"money": 12.1,
+				"gold": 120,
+				"corn": 20
+			},
+			"category": 1
+		},
+		{
+			"id" : "22f027ff-992f-436d-943b-7c4dfd65435a",
+			"name": "Chest of gold",
+			"spriteName": "ChestOfGold",
+			"price":  {
+				"money": 12.1,
+				"gold": 120,
+				"corn": 20
+			},
+			"category": 1
+		},
+		{
+			"id" : "d98038e6-ccc5-4bc7-8ada-089b01d25e93",
+			"name": "Ton of gold",
+			"spriteName": "TonOfGold",
+			"price":  {
+				"money": 12.1,
+				"gold": 120,
+				"corn": 20
+			},
+			"category": 1
+		}
+	],
+	"corn": [
+		{
+			"id" : "ed90ad05-60e5-4f4f-ad2d-061bfafc8da4",
+			"name": "Pack of corn",
+			"spriteName": "PackOfCorn",
+			"price":  {
+				"money": 12.1,
+				"gold": 120,
+				"corn": 20
+			},
+			"category": 2
+		},
+		{
+			"id" : "246cef6d-563a-47f6-bec9-47816fca9865",
+			"name": "Bag of corn",
+			"spriteName": "BagOfCorn",
+			"price":  {
+				"money": 12.1,
+				"gold": 90,
+				"corn": 20
+			},
+			"category": 2
+		},
+		{
+			"id" : "8a7c8a74-1455-4508-9ab3-20f21452ef8f",
+			"name": "Chest of corn",
+			"spriteName": "ChestOfCorn",
+			"price":  {
+				"money": 12.1,
+				"gold": 90,
+				"corn": 20
+			},
+			"category": 2
+		},
+		{
+			"id" : "c568016f-601e-4b28-b127-7a84fa38993c",
+			"name": "Stack of corn",
+			"spriteName": "StackOfCorn",
+			"price":  {
+				"money": 12.1,
+				"gold": 90,
+				"corn": 20
+			},
+			"category": 2
+		},
+		{
+			"id" : "8b184849-e89b-46b2-a811-c3b74211205b",
+			"name": "Barn of corn",
+			"spriteName": "BarnOfCorn",
+			"price":  {
+				"money": 12.1,
+				"gold": 90,
+				"corn": 20
+			},
+			"category": 2
+		}
+	],
+	"aircrafts": [
+		{
+			"id" : "6f1cd7f5-9358-4a42-8f41-f88359c7de44",
+			"name": "P51",
+			"spriteName": "P51",
+			"thumbnailName": "P51_Thumbnail",
+			"price":  {
+				"money": 12.1,
+				"gold": 120,
+				"corn": 20
+			},
+			"category": 3,
+			"weight": 1200
+		},
+		{
+			"id" : "d3f26a1d-5f9e-4141-8196-35534a8bd5b5",
+			"name": "IL 2",
+			"spriteName": "Il2",
+			"thumbnailName": "Il2_Thumbnail",
+			"price":  {
+				"money": 12.1,
+				"gold": 90,
+				"corn": 20
+			},
+			"category": 3,
+			"weight": 1300
+		},
+		{
+			"id" : "cb9ff332-f42a-47bc-8f3a-bfa260cb4170",
+			"name": "Spitfire",
+			"spriteName": "Spitfire",
+			"thumbnailName": "Spitfire_Thumbnail",
+			"price":  {
+				"money": 12.1,
+				"gold": 90,
+				"corn": 20
+			},
+			"category": 3,
+			"weight": 1100
+		}
+	]
+}

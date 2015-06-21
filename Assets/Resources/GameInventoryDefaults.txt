@@ -1,0 +1,340 @@
+{
+	"availableItems": [
+		{
+			"id": "8f40157d-d58a-4852-a021-64214ca7d553",
+			"name": "Hispano Suiza HS404 Cannon",
+			"shortName": "HS404",
+			"description": "Hispano Suiza HS404 Cannon is cool!",
+			"spriteName": "HispanoSuizaHS404Cannon",
+			"thumbnailName": "HispanoSuizaHS404Cannon_Thumbnail",
+			"weight": 10,
+			"power": 0,
+			"energy": 0,
+			"level": 1,
+			"class": 1,
+			"category": 3,
+			"price": {
+				"gold": 1,
+				"corn": 1
+			},
+			"rarity": 0,
+			"fireRate": 1
+		},
+		{
+			"id": "8A535CD6-1816-44DB-989B-DF0CFA038E52",
+			"name": "M2 Machine Gun",
+			"shortName": "M2",
+			"description": "M2 Machine Gun is cool!",
+			"spriteName": "M2MachineGun",
+			"thumbnailName": "M2MachineGun_Thumbnail",
+			"weight": 10,
+			"power": 0,
+			"energy": 0,
+			"level": 1,
+			"class": 1,
+			"category": 3,
+			"price": {
+				"gold": 1,
+				"corn": 1
+			},
+			"rarity": 0,
+			"fireRate": 1
+		},
+		{
+			"id": "28E6DA97-338F-4536-B7C1-F070C29C12C1",
+			"name": "M1919 Machine Gun",
+			"shortName": "M1919",
+			"description": "M1919 Machine Gun is cool!",
+			"spriteName": "M1919MachineGun",
+			"thumbnailName": "M1919MachineGun_Thumbnail",
+			"weight": 10,
+			"power": 0,
+			"energy": 0,
+			"level": 1,
+			"class": 1,
+			"category": 3,
+			"price": {
+				"gold": 1,
+				"corn": 1
+			},
+			"rarity": 0,
+			"fireRate": 1
+		},
+		{
+			"id": "7CC9F77A-77A9-41B2-830F-4054B078AE27",
+			"name": "ShKAS Machine Gun",
+			"shortName": "ShKAS",
+			"description": "ShKAS Machine Gun is cool!",
+			"spriteName": "ShKASMachineGun",
+			"thumbnailName": "ShKASMachineGun_Thumbnail",
+			"weight": 10,
+			"power": 0,
+			"energy": 0,
+			"level": 1,
+			"class": 1,
+			"category": 3,
+			"price": {
+				"gold": 1,
+				"corn": 1
+			},
+			"rarity": 0,
+			"fireRate": 1
+		},
+		{
+			"id": "A7DD24EF-8D53-406C-9CAD-7B548803E41B",
+			"name": "ShVAK Cannon",
+			"shortName": "ShVAK",
+			"description": "ShVAK Cannon is cool!",
+			"spriteName": "ShVAKCannon",
+			"thumbnailName": "ShVAKCannon_Thumbnail",
+			"weight": 10,
+			"power": 0,
+			"energy": 0,
+			"level": 1,
+			"class": 1,
+			"category": 3,
+			"price": {
+				"gold": 1,
+				"corn": 1
+			},
+			"rarity": 0,
+			"fireRate": 1
+		},
+		{
+			"id": "0A7D8102-29B5-4BC9-ABF5-46922826F99B",
+			"name": "Allison V1710",
+			"shortName": "V1710",
+			"description": "Allison V1710 is cool!",
+			"spriteName": "AllisonV1710",
+			"thumbnailName": "AllisonV1710_Thumbnail",
+			"weight": 10,
+			"power": 0,
+			"energy": 0,
+			"level": 1,
+			"class": 1,
+			"category": 1,
+			"price": {
+				"gold": 1,
+				"corn": 1
+			},
+			"rarity": 0
+		},
+		{
+			"id": "4980CAC0-04E3-4998-A461-CD5480452B77",
+			"name": "Mikulin AM35",
+			"shortName": "AM35",
+			"description": "Mikulin AM35 is cool!",
+			"spriteName": "MikulinAM35",
+			"thumbnailName": "MikulinAM35_Thumbnail",
+			"weight": 10,
+			"power": 0,
+			"energy": 0,
+			"level": 1,
+			"class": 1,
+			"category": 1,
+			"price": {
+				"gold": 1,
+				"corn": 1
+			},
+			"rarity": 0
+		},
+		{
+			"id": "9C468D1E-BE13-4A6F-AA5D-E2F2B08AB606",
+			"name": "Mikulin AM38F",
+			"shortName": "AM38F",
+			"description": "Mikulin AM38F is cool!",
+			"spriteName": "MikulinAM38F",
+			"thumbnailName": "MikulinAM38F_Thumbnail",
+			"weight": 10,
+			"power": 0,
+			"energy": 0,
+			"level": 1,
+			"class": 1,
+			"category": 1,
+			"price": {
+				"gold": 1,
+				"corn": 1
+			},
+			"rarity": 0
+		},
+		{
+			"id": "f1d300c7-f79f-4764-9790-ca4515862525",
+			"name": "RR Griffon",
+			"shortName": "Griffon",
+			"description": "RR Griffon is cool!",
+			"spriteName": "RRGriffon",
+			"thumbnailName": "RRGriffon_Thumbnail",
+			"weight": 10,
+			"power": 0,
+			"energy": 0,
+			"level": 1,
+			"class": 1,
+			"category": 1,
+			"price": {
+				"gold": 1,
+				"corn": 1
+			},
+			"rarity": 0
+		},
+		{
+			"id": "d370ccf3-dbb0-40a9-b7d0-36a2f45a1ca4",
+			"name": "RR Merlin",
+			"shortName": "Merlin",
+			"description": "SRR Merlin is cool!",
+			"spriteName": "RRMerlin",
+			"thumbnailName": "RRMerlin_Thumbnail",
+			"description": "",
+			"weight": 10,
+			"power": 0,
+			"energy": 0,
+			"level": 1,
+			"class": 1,
+			"category": 1,
+			"price": {
+				"gold": 1,
+				"corn": 1
+			},
+			"rarity": 0
+		}
+	],
+	"purchasedItems": [
+		{
+			"id": "7CC9F77A-77A9-41B2-830F-4054B078AE20",
+			"name": "ShKAS Machine Gun",
+			"shortName": "ShKAS",
+			"description": "ShKAS Machine Gun is cool!",
+			"spriteName": "ShKASMachineGun",
+			"thumbnailName": "ShKASMachineGun_Thumbnail",
+			"weight": 10,
+			"power": 0,
+			"energy": 0,
+			"level": 1,
+			"class": 1,
+			"category": 3,
+			"price": {
+				"gold": 1,
+				"corn": 1
+			},
+			"rarity": 0,
+			"fireRate": 1
+		},
+		{
+			"id": "A7DD24EF-8D53-406C-9CAD-7B548803E41C",
+			"name": "ShVAK Cannon",
+			"shortName": "ShVAK",
+			"description": "ShVAK Cannon is cool!",
+			"spriteName": "ShVAKCannon",
+			"thumbnailName": "ShVAKCannon_Thumbnail",
+			"weight": 10,
+			"power": 0,
+			"energy": 0,
+			"level": 1,
+			"class": 1,
+			"category": 3,
+			"price": {
+				"gold": 1,
+				"corn": 1
+			},
+			"rarity": 0,
+			"fireRate": 1
+		},
+		{
+			"id": "0A7D8102-29B5-4BC9-ABF5-46922826F99A",
+			"name": "Allison V1710",
+			"shortName": "V1710",
+			"description": "Allison V1710 is cool!",
+			"spriteName": "AllisonV1710",
+			"thumbnailName": "AllisonV1710_Thumbnail",
+			"weight": 10,
+			"power": 0,
+			"energy": 0,
+			"level": 1,
+			"class": 1,
+			"category": 1,
+			"price": {
+				"gold": 1,
+				"corn": 1
+			},
+			"rarity": 0
+		},
+		{
+			"id": "4980CAC0-04E3-4998-A461-CD5480452B76",
+			"name": "Mikulin AM35",
+			"shortName": "AM35",
+			"description": "Mikulin AM35 is cool!",
+			"spriteName": "MikulinAM35",
+			"thumbnailName": "MikulinAM35_Thumbnail",
+			"weight": 10,
+			"power": 0,
+			"energy": 0,
+			"level": 1,
+			"class": 1,
+			"category": 1,
+			"price": {
+				"gold": 1,
+				"corn": 1
+			},
+			"rarity": 0
+		},
+		{
+			"id": "A7DD24EF-8D53-406C-9BBB-7B548803E42C",
+			"name": "P51",
+			"shortName": "P51",
+			"description": "P51 aircraft is cool!",
+			"spriteName": "P51",
+			"thumbnailName": "P51_Thumbnail",
+			"weight": 1110,
+			"power": 0,
+			"energy": 0,
+			"level": 1,
+			"class": 1,
+			"category": 6,
+			"price": {
+				"gold": 100,
+				"corn": 10
+			},
+			"rarity": 0
+		}
+	],
+	"equippedItems": [
+		{
+			"id": "f1d300c7-f79f-4764-9790-ca4515862522",
+			"name": "RR Griffon",
+			"shortName": "Griffon",
+			"description": "RR Griffon is cool!",
+			"spriteName": "RRGriffon",
+			"thumbnailName": "RRGriffon_Thumbnail",
+			"weight": 10,
+			"power": 0,
+			"energy": 0,
+			"level": 1,
+			"class": 1,
+			"category": 1,
+			"price": {
+				"gold": 1,
+				"corn": 1
+			},
+			"rarity": 0
+		},
+		{
+			"id": "A7DD24EF-8D53-406C-9CAD-7B548803E42C",
+			"name": "ShVAK Cannon",
+			"shortName": "ShVAK",
+			"description": "ShVAK Cannon is cool!",
+			"spriteName": "ShVAKCannon",
+			"thumbnailName": "ShVAKCannon_Thumbnail",
+			"weight": 10,
+			"power": 0,
+			"energy": 0,
+			"level": 1,
+			"class": 1,
+			"category": 3,
+			"price": {
+				"gold": 1,
+				"corn": 1
+			},
+			"rarity": 0,
+			"fireRate": 1
+		}
+	]
+}

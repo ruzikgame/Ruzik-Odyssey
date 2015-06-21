@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: d20ef8ce146884b08812d232285de174
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: alien_mine_sprite_sheet_detonate_0
+    21300002: alien_mine_sprite_sheet_detonate_1
+    21300004: alien_mine_sprite_sheet_detonate_2
+    21300006: alien_mine_sprite_sheet_detonate_3
+    21300008: alien_mine_sprite_sheet_detonate_4
+    21300010: alien_mine_sprite_sheet_detonate_5
+    21300012: alien_mine_sprite_sheet_detonate_6
+    21300014: alien_mine_sprite_sheet_detonate_7
+    21300016: alien_mine_sprite_sheet_detonate_8
+    21300018: alien_mine_sprite_sheet_detonate_9
+    21300020: alien_mine_sprite_sheet_detonate_10
+    21300022: alien_mine_sprite_sheet_detonate_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: 5
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 128
+  alphaIsTransparency: 0
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: alien_mine_sprite_sheet_detonate_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 687
+        width: 236
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alien_mine_sprite_sheet_detonate_1
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 687
+        width: 236
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alien_mine_sprite_sheet_detonate_2
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 687
+        width: 236
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alien_mine_sprite_sheet_detonate_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 458
+        width: 236
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alien_mine_sprite_sheet_detonate_4
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 458
+        width: 236
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alien_mine_sprite_sheet_detonate_5
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 458
+        width: 236
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alien_mine_sprite_sheet_detonate_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 229
+        width: 236
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alien_mine_sprite_sheet_detonate_7
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 229
+        width: 236
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alien_mine_sprite_sheet_detonate_8
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 229
+        width: 236
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alien_mine_sprite_sheet_detonate_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 236
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alien_mine_sprite_sheet_detonate_10
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 0
+        width: 236
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alien_mine_sprite_sheet_detonate_11
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 0
+        width: 236
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
